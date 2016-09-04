@@ -1,0 +1,21 @@
+Pic :-
+pixelart-island 
+http://opengameart.org/content/pixelart-island
+License(s): https://creativecommons.org/licenses/by/3.0/
+
+Sound :-
+pirate-game-tune
+http://opengameart.org/content/pirate-game-tune
+License(s):https://creativecommons.org/publicdomain/zero/1.0/
+
+the-end-death-screen-mix
+http://opengameart.org/content/the-end-death-screen-mix
+License(s): https://creativecommons.org/licenses/by-sa/3.0/
+
+mouse-click
+http://opengameart.org/content/mouse-click
+License(s):https://creativecommons.org/publicdomain/zero/1.0/
+
+Other
+Created by Ammar Alsharekh
+License(s):https://creativecommons.org/publicdomain/zero/1.0/
